@@ -11,7 +11,7 @@ This is exciting and by the end of this unit we will have given you the all of t
 
 You get to decide what you want to build - as long as it meets the technical requirements outlined below.
 
-**You will be working as a group for this project.** You'll be designing and coding the app yourself.
+**You will be working as a group for this project.** You'll be designing and coding the app with others.
 
 Additionally as part of the project's requirements, you'll be required to take and pass a Project Assessment.
 
