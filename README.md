@@ -167,7 +167,7 @@ Another piece of advice:  If you choose to develop an app that has the concept o
 
 - [Pokemarket](https://pokemarket.herokuapp.com/pokemon)
 - [Can I Share My Screen](https://can-i-share-my-screen.herokuapp.com)
-- [Hypin](https://bty-hypin.herokuapp.com/)
+- [Diner ++](https://dinnerplusplus.herokuapp.com/)
 
 ---
 
