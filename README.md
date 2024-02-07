@@ -19,7 +19,7 @@ Additionally as part of the project's requirements, you'll be required to take a
 
 ## Planning & Presentation Requirements
 
-### Planning - Due by Mon, 7/10/23:
+### Planning - Due by Thurs, 2/08/24:
 
 - A **[Trello](https://trello.com/) board** with:
     
@@ -38,7 +38,7 @@ Additionally as part of the project's requirements, you'll be required to take a
     
     ☐ An **ERD** list containing an ERD identifying the attributes of each Data Entity (one for each Model and embedded schema). The ERD also needs to diagram relationships between the Entities (1:1, 1:M or M:M). Here's a [YouTube video to show you how](https://www.youtube.com/watch?v=QpdhBUYk7Kk).
 
-### Project Presentations - Tues, 7/18/23:
+### Project Presentations - Thurs, 2/15/24:
 
 You will have a maximum of 10 minutes to present your project following these guidelines:
 
